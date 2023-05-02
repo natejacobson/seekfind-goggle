@@ -80,7 +80,7 @@ $boost=4,site=prageru.com
 $boost=2,site=projectveritas.com
 $boost=2,site=penncapital-star.com
 $boost=2,site=pe.com
-$boost=2,site=pacificresearch.org
+
 $boost=2,site=thepostmillennial.com
 $boost=2,site=riponadvance.com
 $boost=2,site=rightsidenews.com
@@ -122,22 +122,29 @@ $boost=2,site=wyofile.com
 ! Encyclopedias
 $boost=5,site=britannica.com
 $boost=2,site=conservapedia.com
+$boost=5,site=encyclopedia.com
+$boost=2,site=iep.utm.edu
+$boost=2,site=howstuffworks.com
+$boost=2,site=infoplease.com
 $boost=5,site=newworldencyclopedia.org
+$boost=5,site=plato.stanford.edu
+$boost=5,site=search.credoreference.com
 $boost=-3,site=wikipedia.org
 
 ! Think Tanks
 $boost=3,site=atlasnetwork.org
 /catalyst/index.html^$boost=2,site=bushcenter.org
+$boost=2,site=brownstone.org
 $boost=5,site=discovery.org
 $boost=5,site=evolutionnews.org
 $boost=5,site=humanize.today
 $boost=5,site=mindmatters.ai
 $boost=2,site=mises.org
-$boost=2,site=brownstone.org
 $boost=10,site=discovery.org
 $boost=10,site=discovery.org
 $boost=10,site=discovery.org
 $boost=2,site=fee.org
 $boost=2,site=judicialwatch.org
 $boost=5,site=heritage.org
+$boost=2,site=pacificresearch.org
 
