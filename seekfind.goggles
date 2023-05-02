@@ -123,7 +123,7 @@ $boost=3,site=newadvent.org
 $boost=5,site=newworldencyclopedia.org
 $boost=5,site=plato.stanford.edu
 $boost=5,site=search.credoreference.com
-$downrank=3,site=wikipedia.org
+$downrank=7,site=wikipedia.org
 
 ! Original Sources
 $boost=3,site=archive.org
@@ -132,21 +132,21 @@ $boost=3,site=books.google.com
 $boost=3,site=loc.gov
 
 ! Think Tanks
+$boost=3,site=aei.org
 $boost=3,site=atlasnetwork.org
 /catalyst/index.html^$boost=2,site=bushcenter.org
 $boost=2,site=brownstone.org
-$boost=5,site=discovery.org
+$boost=7,site=discovery.org
 $boost=5,site=evolutionnews.org
 $boost=5,site=humanize.today
 $boost=5,site=mindmatters.ai
 $boost=2,site=mises.org
-$boost=10,site=discovery.org
-$boost=10,site=discovery.org
-$boost=10,site=discovery.org
 $boost=2,site=fee.org
 $boost=2,site=judicialwatch.org
-$boost=5,site=heritage.org
+$boost=8,site=heritage.org
+$boost=5,site=hudson.org
 $boost=2,site=pacificresearch.org
+$boost=2,site=swprs.org
 
 ! Watchdogs
 $boost=2,site=aim.org
