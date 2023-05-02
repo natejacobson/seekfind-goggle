@@ -123,7 +123,7 @@ $boost=-3,site=newadvent.org
 $boost=5,site=newworldencyclopedia.org
 $boost=5,site=plato.stanford.edu
 $boost=5,site=search.credoreference.com
-$boost=-3,site=wikipedia.org
+$downrank=3,site=wikipedia.org
 
 ! Original Sources
 $boost=3,site=archive.org
