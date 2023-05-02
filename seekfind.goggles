@@ -7,7 +7,6 @@
 
 $boost=2,site=atlasone.org
 $boost=3,site=americanthinker.com
-$boost=3,site=aim.org
 $boost=2,site=amgreatness.com
 $boost=3,site=theamericanconservative.com
 $boost=2,site=americanmind.org
@@ -21,17 +20,14 @@ $boost=2,site=conservativehq.com
 $boost=2,site=commentarymagazine.com
 $boost=2,site=city-journal.org
 $boost=2,site=christianpost.com
-! $boost=2,site=christianitytoday.com
+$boost=2,site=christianitytoday.com
 $boost=2,site=thecollegefix.com
-! $boost=3,site=infowars.com
-! $boost=3,site=gab.com
 $boost=3,site=cnsnews.com
 $boost=3,site=cbn.com
 $boost=3,site=dailywire.com
 $boost=3,site=dailymail.co.uk
 $boost=3,site=dailycaller.com
 $boost=5,site=dailysignal.com
-$boost=2,site=drudgereport.com
 $boost=2,site=desiringgod.org
 $boost=2,site=deseret.com
 $boost=2,site=dailypress.com
@@ -64,8 +60,6 @@ $boost=2,site=liveactionnews.org
 $boost=2,site=leesburgtoday.com
 $boost=2,site=mercatus.org
 $boost=2,site=themichiganstar.com
-$boost=4,site=newsbusters.org
-$boost=4,site=mrc.org
 /opinion^$boost=3,site=nypost.com
 /insiders^$boost=3,site=newsmax.com
 $boost=3,site=newsmax.com
@@ -80,7 +74,6 @@ $boost=4,site=prageru.com
 $boost=2,site=projectveritas.com
 $boost=2,site=penncapital-star.com
 $boost=2,site=pe.com
-
 $boost=2,site=thepostmillennial.com
 $boost=2,site=riponadvance.com
 $boost=2,site=rightsidenews.com
@@ -126,10 +119,17 @@ $boost=5,site=encyclopedia.com
 $boost=2,site=iep.utm.edu
 $boost=2,site=howstuffworks.com
 $boost=2,site=infoplease.com
+$boost=-3,site=newadvent.org
 $boost=5,site=newworldencyclopedia.org
 $boost=5,site=plato.stanford.edu
 $boost=5,site=search.credoreference.com
 $boost=-3,site=wikipedia.org
+
+! Original Sources
+$boost=3,site=archive.org
+$boost=3,site=gutenberg.org
+$boost=3,site=books.google.com
+$boost=3,site=loc.gov
 
 ! Think Tanks
 $boost=3,site=atlasnetwork.org
@@ -148,3 +148,7 @@ $boost=2,site=judicialwatch.org
 $boost=5,site=heritage.org
 $boost=2,site=pacificresearch.org
 
+! Watchdogs
+$boost=2,site=aim.org
+$boost=4,site=newsbusters.org
+$boost=4,site=mrc.org
