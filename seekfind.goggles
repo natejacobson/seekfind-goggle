@@ -154,6 +154,10 @@ $boost=5,site=plato.stanford.edu
 $boost=5,site=search.credoreference.com
 $downrank=7,site=wikipedia.org
 
+! Journals and Academia
+$boost=5,site=christianscholars.com
+$boost=5,site=scholar.google.com
+
 ! Original Sources
 $boost=3,site=archive.org
 $boost=3,site=gutenberg.org
