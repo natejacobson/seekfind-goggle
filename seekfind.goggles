@@ -7,11 +7,12 @@
 
 $discard
 
-
 $boost=2,site=atlasone.org
+$boost=2,site=americanaffairsjournal.org
 $boost=3,site=americanthinker.com
 $boost=2,site=amgreatness.com
 $boost=3,site=theamericanconservative.com
+
 $boost=2,site=americanmind.org
 $boost=3,site=theblaze.com
 $boost=2,site=breitbart.com
@@ -24,17 +25,18 @@ $boost=2,site=chalkboardreview.com
 $boost=2,site=conservativehq.com
 $boost=2,site=conservativereview.com
 $boost=2,site=commentary.org
-$boost=2,site=city-journal.org
+$boost=2,site=thechicagothinker.com
 $boost=2,site=christianpost.com
 $boost=2,site=christianitytoday.com
+$boost=2,site=city-journal.org
 $boost=2,site=thecollegefix.com
 $boost=2,site=clownworld.today
 $boost=3,site=cnsnews.com
 $boost=3,site=cbn.com
-$boost=2,site=compactmag.com
+$boost=5,site=compactmag.com
 $boost=2,site=creation.com
 $boost=2,site=thecritic.co.uk
-$boost=3,site=dailywire.com
+
 $boost=3,site=dailymail.co.uk
 $boost=3,site=dailycaller.com
 $boost=5,site=dailysignal.com
@@ -42,9 +44,11 @@ $boost=2,site=desiringgod.org
 $boost=2,site=deseret.com
 $boost=2,site=dailypress.com
 $boost=2,site=dailycitizen.focusonthefamily.com
+$boost=3,site=dailywire.com
 $boost=2,site=thedispatch.com
 $boost=2,site=eviemagazine.com
 $boost=2,site=theepochtimes.com
+$boost=2,site=thefederalist.com
 $boost=2,site=firstthings.com
 $boost=2,site=freedomhouse.org
 $boost=2,site=freebeacon.com
@@ -56,7 +60,7 @@ $boost=4,site=foxnews.com
 /index.html^$boost=2,site=latino.foxnews.com
 $boost=3,site=frontpagemag.com
 $boost=2,site=georgiastarnews.com
-$boost=2,site=ground.news
+$boost=2,site=harvard-jlpp.com
 $boost=2,site=heavy.com
 $boost=2,site=hotair.com
 $boost=2,site=humanevents.com
@@ -72,7 +76,6 @@ $boost=2,site=thelibertarianrepublic.com
 $boost=3,site=lifesitenews.com
 $boost=2,site=thegatewaypundit.com
 $boost=2,site=thefiscaltimes.com
-$boost=2,site=thefederalist.com
 $boost=2,site=liveactionnews.org
 $boost=2,site=leesburgtoday.com
 $boost=2,site=loneconservative.com
@@ -127,9 +130,9 @@ $boost=2,site=richmond.com
 $boost=2,site=ricochet.com
 $boost=1,site=rumble.com
 /opinion^$boost=2,site=scriberrnews.com
-$boost=3,site=spectator.org
+$boost=4,site=spectator.org
 $boost=3,site=spiked-online.com
-$boost=2,site=stream.org
+$boost=4,site=stream.org
 $boost=2,site=telegraph.co.uk
 $boost=2,site=tabletmag.com
 $boost=2,site=thetexan.news
@@ -148,6 +151,7 @@ $boost=5,site=x.com
 
 ! Meta-analysis
 $boost=5,site=allsides.com
+$boost=5,site=ground.news
 
 ! Encyclopedias
 $boost=5,site=britannica.com
