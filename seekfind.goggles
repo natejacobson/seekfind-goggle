@@ -7,6 +7,7 @@
 
 $discard
 
+
 $boost=2,site=atlasone.org
 $boost=3,site=americanthinker.com
 $boost=2,site=amgreatness.com
@@ -32,6 +33,7 @@ $boost=3,site=cnsnews.com
 $boost=3,site=cbn.com
 $boost=2,site=compactmag.com
 $boost=2,site=creation.com
+$boost=2,site=thecritic.co.uk
 $boost=3,site=dailywire.com
 $boost=3,site=dailymail.co.uk
 $boost=3,site=dailycaller.com
@@ -110,7 +112,7 @@ $boost=5,site=realclearhealth.com
 $boost=5,site=realclearhistory.com
 $boost=5,site=realclearmarkets.com
 $boost=5,site=realclearscience.com
-$boost=5,site=realclearreligion.com
+$boost=5,site=realclearreligion.org
 /r/uncensorednews/$boost=3,site=reddit.com
 /r/libertarian/$boost=3,site=reddit.com
 /r/conservative/$boost=3,site=reddit.com
@@ -142,6 +144,10 @@ $boost=4,site=wnd.com
 $boost=8,site=wng.org
 /public/page/news-opinion-commentary.html^$boost=3,site=online.wsj.com
 $boost=2,site=wyofile.com
+$boost=5,site=x.com
+
+! Meta-analysis
+$boost=5,site=allsides.com
 
 ! Encyclopedias
 $boost=5,site=britannica.com
